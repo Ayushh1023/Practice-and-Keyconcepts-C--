@@ -1,0 +1,12 @@
+# ninja log v5
+34	944	6744546910587620	CMakeFiles/C__.dir/main.cpp.obj	dd843ac2bef3ed9b
+1	958	6744546910880155	CMakeFiles/C__.dir/Phase2/Nexus.cpp.obj	c002a3984311d7e
+42	971	6744546911019621	CMakeFiles/C__.dir/test.cpp.obj	ec08adef83d49751
+24	987	6744546911120334	CMakeFiles/C__.dir/Combinational.cpp.obj	4b39fc25546629cb
+62	1027	6744546911531217	CMakeFiles/C__.dir/TypeCasting.cpp.obj	9fd2a81ec1291eca
+76	1028	6744546911571679	CMakeFiles/C__.dir/Structures.cpp.obj	b56d1a4ad10fe869
+88	1029	6744546911581830	CMakeFiles/C__.dir/ternary_operator.cpp.obj	4db30842a3b423d4
+50	1481	6744546916140401	CMakeFiles/C__.dir/Vectors.cpp.obj	40cfc9caedc21f30
+45	1641	6773893573603486	CMakeFiles/C__.dir/Structures.cpp.obj	b56d1a4ad10fe869
+3	1717	6773893574369336	CMakeFiles/C__.dir/Vectors.cpp.obj	40cfc9caedc21f30
+52	2498	6773893582164623	CMakeFiles/C__.dir/ternary_operator.cpp.obj	4db30842a3b423d4
